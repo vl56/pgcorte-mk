@@ -64,6 +64,7 @@ a:hover {
 
 
 
+
 /* Estilos para celular */
 @media only screen and (max-width: 767px) {
     
@@ -72,7 +73,6 @@ a:hover {
         margin: 0 auto;
         padding: 50px;
         font-family: Arial, sans-serif;
-        background:#004aad;
         background-size: cover;
         background-position:center;
         color: rgb(255,255,255);
